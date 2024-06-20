@@ -2,7 +2,9 @@
 
 ## Overview
 
-Kinera aims to revolutionize the media landscape by establishing a network of peer-to-peer relationships that span production, ownership, distribution, and curation, while providing tools to support these processes. In this proposal, we introduce the Kinera network to the Polkadot/Kusama communities, whom we invite to test and vote to facilitate rapid project growth up to the point of crowdfunding.
+Kinera is a fast, scalable, censorship-resistant social network for film and video curation with the capacity to stream content using different models for subscriptions. Our goal is to facilitate the emergence of high-quality content creators through community-driven film competitions and rankings that express the group's tastes, values, and beliefs. An integral part of this process is the distribution of awards using tokenised incentives and curation markets. 
+We aim to become a forum for professionals and nonconformist media creators with different skills. A space where participants can align their collective needs and interests at scale, and harness the power of their narratives in the real world. To reflect on the essence of the common good, to synchronize the frequency of beauty, and to serve as a media portal for transformative ideas and social advancement.
+
 
 ## Repositories
 
